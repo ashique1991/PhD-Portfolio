@@ -47,22 +47,22 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ## 📸 Screenshots
 
 ### 1. District Selection
-![District Selection](./screenshots/figure1_district_selection.jpg)
+![District Selection](./screenshots/1.jpg)
 
 ### 2. Full Application Interface (Los Angeles Unified)
-![Full App Interface](./screenshots/figure1_full_app_interface_lausd.jpg)
+![Full App Interface](./screenshots/2.jpg)
 
 ### 3. District Profile
-![District Profile](./screenshots/figure7_district_profile_lausd.jpg)
+![District Profile](./screenshots/3.jpg)
 
 ### 4. Enrollment Forecast Chart
-![Forecast Chart](./screenshots/figure2_forecast_chart_lausd.jpg)
+![Forecast Chart](./screenshots/4.jpg)
 
 ### 5. Grade-Level Breakdown
-![Grade Breakdown](./screenshots/figure3_grade_breakdown_lausd.jpg)
+![Grade Breakdown](./screenshots/5.jpg)
 
 ### 6. District Boundary Map
-![Boundary Map](./screenshots/figure4_boundary_map_lausd.jpg)
+![Boundary Map](./screenshots/5.jpg)
 
 ---
 ## 🧠 Methodology
