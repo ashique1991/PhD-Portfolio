@@ -65,31 +65,36 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ![Boundary Map](./screenshots/figure4_boundary_map_lausd.jpg)
 
 ---
-
-
-
 ## 🧠 Methodology
 
 | Component | Method |
 |-----------|--------|
-| **Forecasting** | Cohort survival modeling, ARIMA, Prophet, LSTM |
+| **Forecasting** | Cohort survival modeling with optimized lookback period (3-7 years depending on district growth rate) |
 | **Spatial Analysis** | GIS boundary rendering on OpenStreetMap (Leaflet, Folium) |
-| **Visualization** | Interactive charts (Chart.js / D3) |
-| **Data Sources** | California school district enrollment and boundary data |
+| **Visualization** | Interactive charts (Chart.js) |
+| **Data Sources** | |
+
+### Data Sources
+
+| Data Type | Source | Description |
+|-----------|--------|-------------|
+| **Enrollment Data** | California Department of Education (CDE) | 11 years of historical K-12 enrollment for 900+ districts |
+| **Birth Data** | California Department of Public Health (CDPH) | Live birth data by ZIP code (available at [data.chhs.ca.gov](https://data.chhs.ca.gov/dataset/cdph_live-birth-by-zip-code)) |
+| **District Boundaries** | California Geographic Boundaries | District boundary shapefiles from [data.ca.gov](https://data.ca.gov/dataset/ca-geographic-boundaries) (public domain, no use restrictions) |
+| **Base Map** | OpenStreetMap | District boundary visualization and spatial analysis |
 
 ---
-
 ## 🛠️ Technical Stack
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | Python (Flask / FastAPI) |
+| **Backend** | Python (Flask) |
 | **Frontend** | TypeScript, JavaScript, Next.js |
 | **Mapping & GIS** | QGIS, GeoPandas, Shapely, Folium, Leaflet, OpenStreetMap |
-| **Charts & Visualization** | Chart.js, D3, Matplotlib |
-| **Databases** | PostgreSQL (PostGIS), MySQL, Firebase |
-| **Forecasting** | scikit-learn, statsmodels, Prophet, TensorFlow (LSTM) |
-
+| **Charts & Visualization** | Chart.js |
+| **Databases** | PostgreSQL (PostGIS) |
+| **Forecasting Method** | Cohort survival modeling (CDE-recommended method for California school districts) |
+| **Parameter Optimization** | Systematic lookback period analysis (1-10 years) with back-casting validation |
 ---
 
 ## 💼 Professional Work (Private Repositories)
