@@ -61,7 +61,7 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ![Grade Breakdown](./screenshots/figure3_grade_breakdown_lausd.jpg)
 
 ### 6. District Boundary Map
-![Boundary Map](./screenshots/figure4_boundary_map_lausd)
+![Boundary Map](./screenshots/figure4_boundary_map_lausd.jpg)
 
 ---
 
