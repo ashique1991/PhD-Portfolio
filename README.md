@@ -30,13 +30,14 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 |---|---|
 | **Live Demo** | [Insert link if deployed] |
 | **Source Code** | [Insert link to your Enrollment Projection App repository] |
-| **Status** | Active Development / Production |
+| **Status** | Production ready (900+ California districts supported) |
 
 ### What It Does
 
 | Feature | Description |
 |---------|-------------|
 | 🔍 **District Search** | User enters any California school district name |
+| 📋 **District Profile** | Displays enrollment, school count, grade span, and growth rate |
 | 📈 **Enrollment Projection** | Displays 5-year historical + 5-year projected enrollment (line chart) |
 | 📊 **Grade-Level Breakdown** | Current enrollment by grade level (TK, K-6, 7-8, 9-12, others) — column chart |
 | 🗺️ **Boundary Mapping** | Renders district boundary on OpenStreetMap base map |
@@ -64,6 +65,8 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ![Boundary Map](./screenshots/figure4_boundary_map_lausd.jpg)
 
 ---
+
+
 
 ## 🧠 Methodology
 
