@@ -1,4 +1,4 @@
-# Ashique Mahmud — PhD Portfolio
+# Ashique Mahmud PhD Portfolio
 
 > Economics graduate (MSS) | Data Analyst | Demographic Forecasting | GIS & Spatial Analysis
 
