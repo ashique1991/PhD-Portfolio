@@ -144,15 +144,6 @@ https://doi.org/10.11648/j.rd.20230402.12
 | **Location** | Dhaka, Bangladesh |
 
 ---
-
-## 📝 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| v1.0 | [Current Date] | Initial portfolio setup |
-| v1.1 | TBD | Add screenshots |
-| v1.2 | TBD | Add live demo link |
-
 ---
 
 *Last updated: [Current Date]*
