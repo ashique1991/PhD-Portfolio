@@ -74,7 +74,7 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ![School Overview](./screenshots/School-Overview.jpg)
 
 ### 10. School Level Projection Dashboard
-![School Level projection](./screenshots/School-Projection.jpg)
+![School projection](./screenshots/School-Projection.jpg)
 
 ---
 ## 🧠 Methodology
